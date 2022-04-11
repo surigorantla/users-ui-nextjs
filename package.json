@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Yara works challenge in next.js and styled components",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surigorantla/users-ui-nextjs.git"
+  },
+  "keywords": [],
+  "author": "Surendra Gorantla",
+  "homepage": "https://github.com/surigorantla/users-ui-nextjs#readme",
   "scripts": {
     "dev": "next dev",
     "lint": "next lint",
